@@ -84,6 +84,7 @@ This repository contains resources I found during my journey with PostgreSQL.
 ## WASM
 - [Supabase - Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm)
 - [WASMer - Postgres library to run WebAssembly binaries](https://github.com/wasmerio/wasmer-postgres)
+- [pg](https://github.com/datawan-labs/pg)
 
 ## Wire Protocol
 - [DataStation - The world of PostgreSQL wire compatibility](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html)
